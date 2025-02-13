@@ -279,7 +279,7 @@ div p.right {
 }
 }
 
-@media screen and (min-width: 550px) {
+@media screen and (min-width: 551px) {
     .texto {
         left: 70%;
         top: 22%;
