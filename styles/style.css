@@ -578,7 +578,7 @@ div p.right {
     width: 70%;
     height: 90%;
     left: -34rem;
-    top: 2rem;
+    top: 0rem;
   }
   .imagen-fondo-der {
     width: 80%;
@@ -675,4 +675,3 @@ div p.right {
     top: 4em;
   }
 }
-
